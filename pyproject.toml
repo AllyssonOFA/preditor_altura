@@ -1,0 +1,12 @@
+[project]
+name = "pai-filho-altura-rl"
+version = "0.1.0"
+description = "Um projeto que usa regressão linear para prever a altura de um filho a partir da altura do pai."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gradio>=6.0.1",
+    "ipykernel>=7.1.0",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+]
