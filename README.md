@@ -16,7 +16,7 @@ sdk_version: 6.0.1
 Uma aplicação interativa que usa um modelo de regressão linear para prever a altura de um filho com base na altura de seu pai.
 
 ## Demo
-Este projeto possui uma versão interativa: ![Clique aqui](https://huggingface.co/spaces/A0F4/preditor_altura)
+Este projeto possui uma versão interativa: [Clique aqui](https://huggingface.co/spaces/A0F4/preditor_altura)
 
 ## Requisitos
 - Todos os requisitos estão presentes no 'requirements.txt', que podem ser adicionados com o 'pip':
